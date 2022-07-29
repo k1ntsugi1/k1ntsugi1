@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Привет, меня зовут Булат. 
 
 <!--
 **k1ntsugi1/k1ntsugi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Frontend developer
+⚡**Мой стек:**
+- javaScript
+  - DOM API
+  - React (с хуками)
+  - Redux (Redux Toolkit)
+- i18next
+- HTML5
+- CSS3
+  - Flex-box
+  - Grid 
+  - препроцессор SASS
+  - bootstrap
+  - bootstrap-react
+  - адаптивная верстка
+- также есть опыт:
+  - настройки webpack, babel, Eslint
+  - работы с WebSocket, Formik, yup, JWT, Jest
+  - взаимодействия по REST API
+  
+Подтверждение указанным навыком смотри в проектах ->
