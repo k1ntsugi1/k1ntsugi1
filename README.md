@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   - работы с WebSocket, Formik, yup, JWT, Jest
   - взаимодействия по REST API
   
-Подтверждение указанным навыком смотри в проектах ->
+Подтверждение указанным навыкам смотри в проектах ->
