@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Frontend developer
 ⚡**Мой стек:**
-- javaScript
+- JavaScript/Typescript
   - DOM API
   - React (с хуками)
   - Redux (Redux Toolkit)
