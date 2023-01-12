@@ -16,22 +16,19 @@ Here are some ideas to get you started:
 -->
 ## Frontend developer
 ⚡**Мой стек:**
-- JavaScript/Typescript
+Мой стек:
+- TypeScript/JavaScript
   - DOM API
   - React (с хуками)
-  - Redux (Redux Toolkit)
+  - react-router-dom-v6
+  - react-hook-form
+  - Formik
+  - Redux/@toolkit
 - i18next
+- CSS3 (Flex-box, Grid, bootstrap, bootstrap-react, адаптивная верстка)
+- SASS
 - HTML5
-- CSS3
-  - Flex-box
-  - Grid 
-  - препроцессор SASS
-  - bootstrap
-  - bootstrap-react
-  - адаптивная верстка
-- также есть опыт:
-  - настройки webpack, babel, Eslint
-  - работы с WebSocket, Formik, yup, JWT, Jest
-  - взаимодействия по REST API
-  
-Подтверждение указанным навыкам смотри в проектах ->
+
+Также есть опыт:
+- настройки webpack, babel, Eslint
+- работы с WebSocket, yup, JWT, Jest
